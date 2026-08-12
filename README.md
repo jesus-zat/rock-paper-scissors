@@ -23,10 +23,13 @@ The game is played through the browser console and consists of five rounds again
 - Git
 - GitHub
 
-## How to Run
+## How to run
 
 1. Clone this repository.
 2. Open the project in your code editor.
 3. Open `index.html` in your browser.
 4. Open the browser developer console.
 5. Enter Rock, Paper, or Scissors when prompted.
+
+## Example
+![rock-paper-scissors][rock-paper-scissors.png]
