@@ -32,4 +32,4 @@ The game is played through the browser console and consists of five rounds again
 5. Enter Rock, Paper, or Scissors when prompted.
 
 ## Example
-![rock-paper-scissors][./rock-paper-scissors.png]
+![rock-paper-scissors](./rock-paper-scissors.png)
